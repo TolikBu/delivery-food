@@ -1,1 +1,1 @@
-# delivery-food
+# delivery-food  самостоятельная работа на бесплатном интенсиве от онлайн школы Glo Academy
